@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3d-store-tour-remote.sln"
+    "dotnet.defaultSolution": "oxxo-interactivo.sln"
 }
